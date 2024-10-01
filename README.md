@@ -1,1 +1,1 @@
-# BookMyShow
+Book My Show is a user-friendly movie ticket booking application built with C#.Net as the frontend and MS Access as the database. This application streamlines the process of selecting movies, showtimes, and booking tickets, providing a simple and efficient experience for users.
